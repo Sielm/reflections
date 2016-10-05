@@ -1,0 +1,1 @@
+When you initialize a repository, you are able to commit files and start saving their commits.  You cannot commit without a repository.
