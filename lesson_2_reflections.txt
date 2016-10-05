@@ -1,1 +1,3 @@
 When you initialize a repository, you are able to commit files and start saving their commits.  You cannot commit without a repository.
+the staging area is where you can put things that you want to commit together.  It doesn't actaully save them and they don't really have a purpose until they are out of the staging area.
+If you put your files into the staging area, you can more easily recognize changes by doing git status and git diff with the staging area and working directory.
