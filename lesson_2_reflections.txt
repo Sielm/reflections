@@ -4,3 +4,4 @@ If you put your files into the staging area, you can more easily recognize chang
 It is helpful to create branches that are versions of your code that aren't necessarily direct upgrades or bug fixes.  For example, an experimental mode can be a branch of a repository that can be merged later on.
 Diagrams show that some branches have parents and new commits that are on previously checked out commit on a branch are unreachable without making a new branch.
 It allows two branches to merge into a single master branch, for instance, if two people were editing the same code and had two separate versions to combine.  The diagram shows it as having two parents, so it is able to see all commits from both branches.
+Automatic merging saves a lot of time, but manual merging can be more accurate if the two branches modified the same thing, leaving a conflict on which version to use in the merged master branch.
