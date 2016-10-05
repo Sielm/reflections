@@ -2,3 +2,4 @@ When you initialize a repository, you are able to commit files and start saving 
 the staging area is where you can put things that you want to commit together.  It doesn't actaully save them and they don't really have a purpose until they are out of the staging area.
 If you put your files into the staging area, you can more easily recognize changes by doing git status and git diff with the staging area and working directory.
 It is helpful to create branches that are versions of your code that aren't necessarily direct upgrades or bug fixes.  For example, an experimental mode can be a branch of a repository that can be merged later on.
+Diagrams show that some branches have parents and new commits that are on previously checked out commit on a branch are unreachable without making a new branch.
