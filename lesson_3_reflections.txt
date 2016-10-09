@@ -1,0 +1,1 @@
+It is usually always beneficial to have a remote, due to the risk of unexpected computer failure, but it is most useful when working on two different machines or working with other people on a single project.
