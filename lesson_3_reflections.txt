@@ -1,1 +1,2 @@
 It is usually always beneficial to have a remote, due to the risk of unexpected computer failure, but it is most useful when working on two different machines or working with other people on a single project.
+It wouldn't be good if git automatically overwrites something that you are working on locally by automatically pulling something from github.
